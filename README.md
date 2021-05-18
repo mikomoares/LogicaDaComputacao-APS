@@ -1,6 +1,8 @@
 # LogicaDaComputacao-APS
 Atividade Pratica Supervisionada para a disciplina de Lógica da Computação - Linguagem de programação
 
+### EBNF
+
 ```
 BLOCK = "{", { COMMAND }, "}" ; 
 COMMAND = ( λ | ASSIGNMENT | PRINT | BLOCK | WHILE | IF), ";" ; 
