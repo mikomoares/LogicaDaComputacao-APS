@@ -1,5 +1,5 @@
 # LogicaDaComputacaoRoteiros
-Roteiros da matéria de Lógica da Computação
+APS da matéria de Lógica da Computação - Criação de Linguagem de Programação
 
 
 Para rodar um programa crie um arquivo, e utilize o comando a seguir:
