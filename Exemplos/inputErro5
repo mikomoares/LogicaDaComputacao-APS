@@ -1,0 +1,19 @@
+int Erro5(bool x, int y){
+    ret x;
+}
+int Erro5(bool x, int y){
+    ret x;
+}
+
+
+int main() {
+    int a;
+    int b;
+    int x;
+    a = 3;
+    x = vedadi;
+    x = Erro2(x, a);
+    printy(x);
+    printy(a);
+    printy(b);
+}

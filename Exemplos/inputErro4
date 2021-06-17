@@ -1,0 +1,16 @@
+int Erro4(bool x, int y){
+    ret a;
+}
+
+
+int main() {
+    int a;
+    int b;
+    int x;
+    a = 3;
+    x = true;
+    x = Erro2(x, a);
+    printy(x);
+    printy(a);
+    printy(b);
+}

@@ -1,0 +1,17 @@
+
+int Erro2(bool x, int y){
+    ret y;
+}
+
+
+int main() {
+    int a;
+    int b;
+    int x;
+    a = 3;
+    x = true;
+    x = Erro2(x, a);
+    println(x);
+    println(a);
+    println(b);
+}

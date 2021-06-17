@@ -1,0 +1,11 @@
+int main() {
+    int a;
+    int b;
+    int x;
+    a = 3;
+    x = 4;
+    x = Erro3(x);
+    printy(x);
+    printy(a);
+    printy(b);
+}
